@@ -2,8 +2,8 @@
 
 @font-face {
    font-family: Segment14;
-   src: url('segment14.woff') format('woff'),
-        url('segment14.ttf') format('truetype');
+   src: url('../fonts/segment14.woff') format('woff'),
+        url('../fonts/segment14.ttf') format('truetype');
 }
 
 /*
